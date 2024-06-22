@@ -36,8 +36,8 @@ const Home = (props) => {
           <div className='left-div'>
           
             <div className='contents'>
-            <h1><b>Welcome Friends</b></h1>
-            <h3><b>Its Free and Open to all</b></h3> 
+            <h1><b>Welcome To Interview Round</b></h1>
+            <h3><b>Wishing you the best of luck in your upcoming interview!</b></h3> 
               <div className='start-meet'>
                 <Link
                   className='home-btn'
