@@ -1,7 +1,6 @@
 import React, { useContext, useState, useEffect } from 'react';
 import { SocketContext } from '../../SocketContext';
 import './Home.css';
-import Footer from '../Footer/Footer';
 import homeIcon from '../../assets/video-call.png';
 import homeIcon1 from '../../assets/home.png';
 import noteIcon from '../../assets/note2.png';
@@ -108,7 +107,6 @@ const Home = (props) => {
           </div>
         </div>
       </div>
-      <Footer />
     </div>
   );
 };
